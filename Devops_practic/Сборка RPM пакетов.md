@@ -1,0 +1,1 @@
+https://www.dmosk.ru/instruktions.php?object=build-rpm

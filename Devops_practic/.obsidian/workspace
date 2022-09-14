@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "c54279a57292dc0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5e1389ab602983f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Docker/Установка Docker.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0710aea0be451189",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81fdce4a5db7c40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48b3ed7135c6f802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "91bf8c66d03424a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "hostname",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 655
+  },
+  "right": {
+    "id": "f84a38493e95dd4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a03db74da7d9390",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a592411e5519c2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/Установка Docker.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d5e1389ab602983f",
+  "lastOpenFiles": [
+    "Kubernetes/Общие команды по kubernetes.md",
+    "Docker/Установка Docker.md",
+    "Docker/Команды Docker.md",
+    "Команды Linux/Изменение имени хоста hostname.md",
+    "Docker/Важная статья по docker.md",
+    "ElasticSearch/Работа с индексами в Kibana.md",
+    "Команды Linux/Поиск больших файлов.md",
+    "Увеличение дискового пространства.md",
+    "Установка SSHFS соединения одной машины с другой.md",
+    "Cron работа.md"
+  ]
+}

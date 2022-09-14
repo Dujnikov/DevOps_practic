@@ -1,0 +1,1 @@
+[http://ftp.br.debian.org/debian/pool/main/g/git-lfs/git-lfs_2.7.1-1+deb10u1_amd64.deb](http://ftp.br.debian.org/debian/pool/main/g/git-lfs/git-lfs_2.7.1-1+deb10u1_amd64.deb)
