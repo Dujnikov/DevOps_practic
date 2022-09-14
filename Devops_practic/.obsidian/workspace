@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Без названия 1.md",
+            "file": "hui2final.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия 1.md",
+                "file": "hui2final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,8 @@
   },
   "active": "d5e1389ab602983f",
   "lastOpenFiles": [
-    "Описание установки сборочной машины на ci.cd.md",
     "Без названия 1.md",
+    "Описание установки сборочной машины на ci.cd.md",
     "Docker/Установка Docker.md",
     "Kubernetes/Общие команды по kubernetes.md",
     "Docker/Команды Docker.md",
